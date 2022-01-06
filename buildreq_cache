@@ -1,0 +1,6 @@
+2.3.2
+pypi(google_auth)
+pypi(googleapis_common_protos)
+pypi(protobuf)
+pypi(requests)
+pypi(setuptools)
