@@ -4,7 +4,7 @@
 #
 Name     : pypi-google_api_core
 Version  : 2.7.1
-Release  : 27
+Release  : 28
 URL      : https://files.pythonhosted.org/packages/ca/84/9897af49d91c685674b5d58dfe7ff6c4a0f7c83bd7a64fc429bf6e5c8462/google-api-core-2.7.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ca/84/9897af49d91c685674b5d58dfe7ff6c4a0f7c83bd7a64fc429bf6e5c8462/google-api-core-2.7.1.tar.gz
 Summary  : Google API client core library
@@ -63,7 +63,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1646875697
+export SOURCE_DATE_EPOCH=1649752165
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
