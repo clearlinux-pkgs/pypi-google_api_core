@@ -1,5 +1,5 @@
 PKG_NAME := pypi-google_api_core
-URL = https://files.pythonhosted.org/packages/7b/16/919e6c52a6dd601ac45871b1b674edcfab4138cbbed753af242ea4c25c7a/google-api-core-2.7.3.tar.gz
+URL = https://files.pythonhosted.org/packages/52/9e/c2f8458c4ca67b2b1b88b3b4b04dd5513b188eec300089ada2cb56ba8ff3/google-api-core-2.8.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
