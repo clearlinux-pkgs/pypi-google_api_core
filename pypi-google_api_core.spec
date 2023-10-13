@@ -5,7 +5,7 @@
 #
 Name     : pypi-google_api_core
 Version  : 2.12.0
-Release  : 51
+Release  : 52
 URL      : https://files.pythonhosted.org/packages/3f/5d/9138d873205a38e5264a78fd4ebf446fc987f20e2566719ed6eee69c200a/google-api-core-2.12.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3f/5d/9138d873205a38e5264a78fd4ebf446fc987f20e2566719ed6eee69c200a/google-api-core-2.12.0.tar.gz
 Summary  : Google API client core library
