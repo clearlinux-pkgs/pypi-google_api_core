@@ -6,10 +6,10 @@
 # autospec commit: f35655a
 #
 Name     : pypi-google_api_core
-Version  : 2.21.0
-Release  : 67
-URL      : https://files.pythonhosted.org/packages/28/c8/046abf3ea11ec9cc3ea6d95e235a51161039d4a558484a997df60f9c51e9/google_api_core-2.21.0.tar.gz
-Source0  : https://files.pythonhosted.org/packages/28/c8/046abf3ea11ec9cc3ea6d95e235a51161039d4a558484a997df60f9c51e9/google_api_core-2.21.0.tar.gz
+Version  : 2.22.0
+Release  : 68
+URL      : https://files.pythonhosted.org/packages/00/c2/425f97c2087affbd452a05d3faa08d97de333f2ca554733e1becab55ee4e/google_api_core-2.22.0.tar.gz
+Source0  : https://files.pythonhosted.org/packages/00/c2/425f97c2087affbd452a05d3faa08d97de333f2ca554733e1becab55ee4e/google_api_core-2.22.0.tar.gz
 Summary  : Google API client core library
 Group    : Development/Tools
 License  : Apache-2.0
@@ -63,10 +63,10 @@ python3 components for the pypi-google_api_core package.
 
 
 %prep
-%setup -q -n google_api_core-2.21.0
-cd %{_builddir}/google_api_core-2.21.0
+%setup -q -n google_api_core-2.22.0
+cd %{_builddir}/google_api_core-2.22.0
 pushd ..
-cp -a google_api_core-2.21.0 buildavx2
+cp -a google_api_core-2.22.0 buildavx2
 popd
 
 %build
@@ -74,7 +74,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1728498467
+export SOURCE_DATE_EPOCH=1730144763
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
